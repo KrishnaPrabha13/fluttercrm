@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "901215406526",
+    "project_id": "crmproject-15301",
+    "storage_bucket": "crmproject-15301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901215406526:android:5a23bf84b25761b3e091ef",
+        "android_client_info": {
+          "package_name": "com.srmt.crm_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901215406526-0i6sj04uepuhefsh9ueuhhk6nlstnf74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbsgpipKLN99qJIjjQiWPc9w9pA0dft6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901215406526-0i6sj04uepuhefsh9ueuhhk6nlstnf74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901215406526-7gqjgadndj2alsdp0jll1rb9ajk8ekiv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srmt.crmDashboard.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901215406526:android:31b26dda31993ad0e091ef",
+        "android_client_info": {
+          "package_name": "com.srmt.crm_dashboard.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901215406526-0i6sj04uepuhefsh9ueuhhk6nlstnf74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbsgpipKLN99qJIjjQiWPc9w9pA0dft6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901215406526-0i6sj04uepuhefsh9ueuhhk6nlstnf74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901215406526-7gqjgadndj2alsdp0jll1rb9ajk8ekiv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srmt.crmDashboard.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
